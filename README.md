@@ -1,1 +1,1 @@
-Here materials of the project "Adam vs SGD on heavy tailed data" is located. Also there are some Jupiter notebooks with realizations of popular and important optimization methods and comparisons between them
+Here materials of the project "Adam vs SGD on heavy tailed data" are located. Also there are some Jupiter notebooks with realizations of popular and important optimization methods and comparisons between them
